@@ -1,0 +1,293 @@
+{
+  "people": [
+    {
+      "id": "p1",
+      "firstName": "Antonio",
+      "lastName": "Pereira",
+      "birthDate": "1928-04-11",
+      "deathDate": "1999-06-21"
+    },
+    {
+      "id": "p2",
+      "firstName": "Beatriz",
+      "lastName": "Oliveira",
+      "birthDate": "1931-09-02",
+      "deathDate": "2011-02-10"
+    },
+    {
+      "id": "p3",
+      "firstName": "Carlos",
+      "lastName": "Pereira",
+      "birthDate": "1954-03-03",
+      "deathDate": null
+    },
+    {
+      "id": "p4",
+      "firstName": "Daniela",
+      "lastName": "Pereira",
+      "birthDate": "1957-12-19",
+      "deathDate": null
+    },
+    {
+      "id": "p5",
+      "firstName": "Elisa",
+      "lastName": "Costa",
+      "birthDate": "1958-11-03",
+      "deathDate": "2014-04-27"
+    },
+    {
+      "id": "p6",
+      "firstName": "Francisco",
+      "lastName": "Pereira",
+      "birthDate": "1980-05-15",
+      "deathDate": null
+    },
+    {
+      "id": "p7",
+      "firstName": "Gabriela",
+      "lastName": "Pereira",
+      "birthDate": "1983-10-01",
+      "deathDate": null
+    },
+    {
+      "id": "p8",
+      "firstName": "Helena",
+      "lastName": "Santos",
+      "birthDate": "1962-01-23",
+      "deathDate": null
+    },
+    {
+      "id": "p9",
+      "firstName": "Igor",
+      "lastName": "Pereira",
+      "birthDate": "1994-08-30",
+      "deathDate": null
+    },
+    {
+      "id": "p10",
+      "firstName": "Ines",
+      "lastName": "Rocha",
+      "birthDate": "1987-07-12",
+      "deathDate": null
+    },
+    {
+      "id": "p11",
+      "firstName": "Joana",
+      "lastName": "Pereira",
+      "birthDate": "2012-03-05",
+      "deathDate": null
+    },
+    {
+      "id": "p12",
+      "firstName": "Tiago",
+      "lastName": "Pereira",
+      "birthDate": "2015-11-18",
+      "deathDate": null
+    },
+    {
+      "id": "p13",
+      "firstName": "Luis",
+      "lastName": "Ferreira",
+      "birthDate": "1959-09-09",
+      "deathDate": null
+    },
+    {
+      "id": "p14",
+      "firstName": "Nuno",
+      "lastName": "Pereira",
+      "birthDate": "1986-01-20",
+      "deathDate": null
+    },
+    {
+      "id": "p15",
+      "firstName": "Olivia",
+      "lastName": "Matos",
+      "birthDate": "1989-04-08",
+      "deathDate": null
+    },
+    {
+      "id": "p16",
+      "firstName": "Paulo",
+      "lastName": "Ferreira",
+      "birthDate": "2013-06-15",
+      "deathDate": null
+    },
+    {
+      "id": "p17",
+      "firstName": "Rita",
+      "lastName": "Sousa",
+      "birthDate": "1998-02-01",
+      "deathDate": null
+    },
+    {
+      "id": "p18",
+      "firstName": "Sofia",
+      "lastName": "Almeida",
+      "birthDate": "1999-09-27",
+      "deathDate": null
+    },
+    {
+      "id": "p19",
+      "firstName": "Marta",
+      "lastName": "Pereira",
+      "birthDate": "2022-01-14",
+      "deathDate": null
+    },
+    {
+      "id": "p20",
+      "firstName": "Tomas",
+      "lastName": "Barbosa",
+      "birthDate": "2011-09-04",
+      "deathDate": null
+    },
+    {
+      "id": "p21",
+      "firstName": "Ursula",
+      "lastName": "Pereira",
+      "birthDate": "2032-05-19",
+      "deathDate": null
+    },
+    {
+      "id": "p22",
+      "firstName": "Vasco",
+      "lastName": "Nogueira",
+      "birthDate": "2030-12-11",
+      "deathDate": null
+    },
+    {
+      "id": "p23",
+      "firstName": "Yara",
+      "lastName": "Pereira",
+      "birthDate": "2055-08-07",
+      "deathDate": null
+    },
+    {
+      "id": "p24",
+      "firstName": "Zelia",
+      "lastName": "Pereira",
+      "birthDate": "2034-02-13",
+      "deathDate": null
+    },
+    {
+      "id": "p25",
+      "firstName": "Afonso",
+      "lastName": "Pereira",
+      "birthDate": "2037-11-29",
+      "deathDate": null
+    },
+    {
+      "id": "p26",
+      "firstName": "Bruno",
+      "lastName": "Silva",
+      "birthDate": "2053-10-05",
+      "deathDate": null
+    },
+    {
+      "id": "p27",
+      "firstName": "Clara",
+      "lastName": "Pereira",
+      "birthDate": "2057-03-14",
+      "deathDate": null
+    },
+    {
+      "id": "p28",
+      "firstName": "Dinis",
+      "lastName": "Pereira",
+      "birthDate": "2060-07-02",
+      "deathDate": null
+    },
+    {
+      "id": "p29",
+      "firstName": "Eva",
+      "lastName": "Pereira",
+      "birthDate": "2082-01-26",
+      "deathDate": null
+    },
+    {
+      "id": "p30",
+      "firstName": "Goncalo",
+      "lastName": "Pereira",
+      "birthDate": "2084-09-09",
+      "deathDate": null
+    }
+  ],
+  "relationships": [
+    {
+      "id": "r1",
+      "spouse1Id": "p1",
+      "spouse2Id": "p2",
+      "status": "married",
+      "childrenIds": ["p3", "p4"]
+    },
+    {
+      "id": "r2",
+      "spouse1Id": "p3",
+      "spouse2Id": "p5",
+      "status": "married",
+      "childrenIds": ["p6", "p7"]
+    },
+    {
+      "id": "r3",
+      "spouse1Id": "p3",
+      "spouse2Id": "p8",
+      "status": "divorced",
+      "childrenIds": ["p9"]
+    },
+    {
+      "id": "r4",
+      "spouse1Id": "p6",
+      "spouse2Id": "p10",
+      "status": "married",
+      "childrenIds": ["p11", "p12"]
+    },
+    {
+      "id": "r5",
+      "spouse1Id": "p4",
+      "spouse2Id": "p13",
+      "status": "married",
+      "childrenIds": ["p14"]
+    },
+    {
+      "id": "r6",
+      "spouse1Id": "p14",
+      "spouse2Id": "p15",
+      "status": "partner",
+      "childrenIds": ["p16"]
+    },
+    {
+      "id": "r7",
+      "spouse1Id": "p9",
+      "spouse2Id": "p18",
+      "status": "married",
+      "childrenIds": ["p19"]
+    },
+    {
+      "id": "r8",
+      "spouse1Id": "p9",
+      "spouse2Id": "p17",
+      "status": "divorced",
+      "childrenIds": []
+    },
+    {
+      "id": "r9",
+      "spouse1Id": "p11",
+      "spouse2Id": "p20",
+      "status": "married",
+      "childrenIds": ["p21", "p24", "p25"]
+    },
+    {
+      "id": "r10",
+      "spouse1Id": "p21",
+      "spouse2Id": "p22",
+      "status": "married",
+      "childrenIds": ["p23", "p27", "p28"]
+    },
+    {
+      "id": "r11",
+      "spouse1Id": "p23",
+      "spouse2Id": "p26",
+      "status": "married",
+      "childrenIds": ["p29", "p30"]
+    }
+  ]
+}
